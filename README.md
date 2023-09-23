@@ -26,4 +26,4 @@ Currently improving my Rest Assured automation skills: Rest Assured libraries, M
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nagesh-kolhe-05672b18a/)](https://www.linkedin.com/in/nagesh-kolhe-05672b18a/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kolhenagesh2017)](https://twitter.com/kolhenagesh2017)
 
-💼 any freelance work? do reach, [email](mailto:kolhenagesh2017@gmail.com) :)
+💼 any work? do reach, [email](mailto:kolhenagesh2017@gmail.com) :)
